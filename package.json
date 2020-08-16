@@ -8,6 +8,7 @@
   "author": "Matthew South",
   "license": "MIT",
   "main": "./dist/index.js",
+  "repository": "https://github.com/mattsouth/argdown-vue",
   "files": [
     "dist/*"
   ],

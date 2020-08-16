@@ -1,6 +1,6 @@
 # argdown-vue
 
-Provides an easy way of using [argdown](https://argdown.org) with vuejs.
+[Argdown](https://argdown.org) with [Vue.js](https://vuejs.org/).
 
 ## getting started
 
@@ -17,7 +17,7 @@ import ArgdownVue from 'argdown-vue';
 Vue.use(ArgdownVue);
 ```
 
-Which will then give you access to an ``argdown-map`` component with two parameters, e.g.
+Which will give you access to an ``argdown-map`` component with two parameters, e.g.
 
 ```html
 <argdown-map :markdown="argument" :options="{withoutLogo: true}" />
