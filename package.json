@@ -1,0 +1,25 @@
+{
+  "name": "argdown-vue",
+  "version": "0.1.0",
+  "description": "argdown components for vuejs",
+  "scripts": {
+    "build": "bili --bundle-node-modules"
+  },
+  "author": "Matthew South",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "files": [
+    "dist/*"
+  ],
+  "dependencies": {
+    "@argdown/marked-plugin": "^1.5.0",
+    "@argdown/web-components": "^1.5.0",
+    "marked": "^1.1.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "bili": "^5.0.5",
+    "rollup-plugin-vue": "5.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
