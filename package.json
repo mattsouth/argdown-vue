@@ -1,6 +1,6 @@
 {
   "name": "argdown-vue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "argdown components for vuejs",
   "scripts": {
     "build": "bili --bundle-node-modules"

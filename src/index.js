@@ -1,6 +1,6 @@
 import ArgdownMap from "./ArgdownMap.vue";
-import "../node_modules/@argdown/web-components/dist/argdown-map.js";
-import "../node_modules/@argdown/web-components/dist/argdown-map.css";
+import "@argdown/web-components/dist/argdown-map.js";
+import "@argdown/web-components/dist/argdown-map.css";
 
 export default {
   install(Vue) {
