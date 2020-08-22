@@ -9,6 +9,9 @@
   "license": "MIT",
   "main": "./dist/index.js",
   "repository": "https://github.com/mattsouth/argdown-vue",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "files": [
     "dist/*"
   ],
